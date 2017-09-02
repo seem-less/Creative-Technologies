@@ -1,3 +1,6 @@
+//This script is used to demonstrate creating LED objects and functions as well
+//as seeing how the REPL works to send commands directly to the board that is being used.
+
 var five = require("johnny-five");
 var board = new five.Board();
 
