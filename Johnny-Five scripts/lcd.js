@@ -1,3 +1,6 @@
+//This script is used to demonstrate using an LCD screen to display text,
+//as well as demonstrating how variables are used in Javascript.
+
 var five = require("johnny-five");
 var board = new five.Board();
 
