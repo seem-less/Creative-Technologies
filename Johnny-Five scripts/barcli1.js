@@ -1,3 +1,6 @@
+// This script is used graph the values being received from a photoresistor to your console using the barcli NPM package.
+// It also includes button events, if you have a button connected to the board.
+
 var five = require("johnny-five");
 var board = new five.Board();
 
