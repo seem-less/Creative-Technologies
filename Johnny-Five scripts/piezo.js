@@ -1,3 +1,5 @@
+//This script demonstrates using the johnny-five library to send musical chords to a piezo element (speaker)
+
 var five = require("johnny-five");
 var board = new five.Board();
 
